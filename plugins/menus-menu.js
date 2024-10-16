@@ -33,18 +33,15 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = ` ┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
-┃⭐ Creador : 𝐊𝐈𝐋𝐋𝐙𝐍
-┃📞 Wa.me/56983073328
-┃https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
+┃⭐ Creador : Kattia
+┃📞 Wa.me/56932786316
 ┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
-
-
 
  ╭━〔 ⚙️ 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐎 𝐃𝐄𝐒𝐀𝐂𝐓𝐈𝐕𝐀𝐑 ⚙️ 〕
  *┃➤ 🟢 ${usedPrefix}enable*
  *┃➤ 🔴 ${usedPrefix}disable*
   ╰━━━━━━━━━━━━
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
  ╭━〔 ❄️ 𝐆𝐑𝐔𝐏𝐎𝐒 ❄️〕
  *┃➤  ${usedPrefix}menuff*
  *┃➤  ${usedPrefix}kick*
